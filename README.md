@@ -7,7 +7,7 @@
 ### $ pkg install python2
 ### $ pip2 install request
 ### $ pip2 install mechanize
-### $ git clone https://github.com/FR13ND8/Fb-Cracker-v.3
+### $ git clone https://github.com/fateh32-sod0/hack-facebook/edit/master/README.md
 ### $ cd Fb-Cracker-v.3
 ### $ python2 crack.py
 
